@@ -60,11 +60,6 @@ struct JobListView: View {
           .refreshable {
              await viewModel.fetchJobs()
           }
-//          .alert("Something went wrong", isPresented: errorBinding) {
-//             Button("OK") {
-//                viewModel.errorMessage = nil
-//             }
-//          }
        }
     }
 

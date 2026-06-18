@@ -128,7 +128,6 @@
 			children = (
 				D75A03662FE1587F007E797A /* App */,
 				D75A036E2FE15FD1007E797A /* Models */,
-				D75A03682FE1587F007E797A /* Resources */,
 				D75A036B2FE1587F007E797A /* Respository */,
 				D75A036C2FE1587F007E797A /* Utilities */,
 				D75A036A2FE1587F007E797A /* ViewModels */,
@@ -173,13 +172,6 @@
 				D75A03672FE1587F007E797A /* RemoteRecruitApp.swift */,
 			);
 			path = App;
-			sourceTree = "<group>";
-		};
-		D75A03682FE1587F007E797A /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Resources;
 			sourceTree = "<group>";
 		};
 		D75A03692FE1587F007E797A /* Views */ = {
