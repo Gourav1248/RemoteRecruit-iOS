@@ -37,7 +37,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture.
 
 2. Open RemoteRecruit.xcodeproj
 
-3. Build and run using Xcode 16+
+3. Build and run using Xcode 14+
 
 4. No additional setup is required.
 
@@ -62,11 +62,17 @@ RemoteRecruit
 
 ## Testing
 
-Unit tests are included for ViewModels and service layers.
+Unit tests have been implemented for the ViewModel layer to validate the core business logic.
 
-Tests cover:
+### Test Coverage
+
+The following scenarios are covered:
 
 - Successful job fetching
 - Error handling
-- Empty state
-- Search functionality
+- Empty response handling
+- Search by job title
+- Search by company name
+- Empty search behavior
+
+The implemented tests cover the primary business logic and satisfy the required minimum coverage expectations.
