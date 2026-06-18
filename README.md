@@ -1,5 +1,5 @@
 # RemoteRecruit-iOS
-A SwiftUI-based job browsing app built with MVVM architecture, async/await, and the Remotive API.
+A SwiftUI-based job browsing app built with MVVM architecture, async/await, and the Jobicy API.
 
 ## Features
 
@@ -76,3 +76,13 @@ The following scenarios are covered:
 - Empty search behavior
 
 The implemented tests cover the primary business logic and satisfy the required minimum coverage expectations.
+
+## Screenshots
+
+### Job Listing Screen
+<img width="300" height="650" alt="RemoteRecruit Listing" src="https://github.com/user-attachments/assets/cdb01f63-294c-488d-84a2-192f3fca8c3f" />
+
+### Job Detail Screen
+<img width="300" height="650" alt="RemoteRecruit Detail" src="https://github.com/user-attachments/assets/e0f4714e-0767-480a-a983-1c5f2d4b2e92" />
+
+
